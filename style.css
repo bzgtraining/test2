@@ -1,5 +1,9 @@
-.h1{
+h1{
   background:#000;
   font-color:#FFF;
   }
-  
+
+*{
+  margin: 0;
+  padding: 0;
+}
