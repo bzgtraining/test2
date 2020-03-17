@@ -1,5 +1,8 @@
-.h1{
+h1{
   background:#000;
-  font-color:#FFF;
+  color:#FFF;
   }
   
+p{
+  font-size: 20px;
+}
